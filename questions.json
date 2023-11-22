@@ -1,0 +1,115 @@
+[
+    {
+        "question": "1",
+        "subject": "Chemistry",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 1
+      },
+      {
+        "question": "2",
+        "subject": "Chemistry",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 3
+      },
+      {
+        "question": "3",
+        "subject": "Chemistry",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 8
+      },
+      {
+        "question": "4",
+        "subject": "Chemistry",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 4
+      },
+      {
+        "question": "5",
+        "subject": "Chemistry",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 4
+      },
+      {
+        "question": "6",
+        "subject": "Chemistry",
+        "topic": "Waves",
+        "difficulty": "Easy",
+        "marks": 1
+      },
+    {
+      "question": "What is the speed of light",
+      "subject": "Physics",
+      "topic": "Waves",
+      "difficulty": "Easy",
+      "marks": 5
+    },
+    {
+      "question": "Explain the concept of photosynthesis",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Medium",
+      "marks": 50
+    },
+    {
+      "question": "Solve the quadratic equation: ax^2 + bx + c = 0",
+      "subject": "Mathematics",
+      "topic": "Algebra",
+      "difficulty": "Easy",
+      "marks": 15
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "subject": "Literature",
+      "topic": "American Literature",
+      "difficulty": "Easy",
+      "marks": 7
+    },
+    {
+      "question": "What is the capital of France?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Medium",
+      "marks": 10
+    },
+    {
+      "question": "Name three chemical elements from the periodic table",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Medium",
+      "marks": 12
+    },
+    {
+      "question": "Define the concept of derivative in calculus",
+      "subject": "Mathematics",
+      "topic": "Calculus",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Hard",
+      "marks": 15
+    },
+    {
+      "question": "Identify the largest ocean on Earth",
+      "subject": "Geography",
+      "topic": "World Oceans",
+      "difficulty": "Easy",
+      "marks": 6
+    },
+    {
+      "question": "What is the structure of DNA?",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Hard",
+      "marks": 20
+    }
+  ]
+  
