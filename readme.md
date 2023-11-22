@@ -1,4 +1,4 @@
-# Hi i am  Ankush Banerjee , a full stack developer and am profficient in node js , prisma , express ,mongodb for the backend development , am eager to learn anything that i might not know . I like to work with Reelo 
+# Hi i am  Ankush Banerjee , a full stack developer and am profficient in node js , prisma , express ,mongodb for the backend development , am eager to learn anything that i might not know . I am looking forwared to work with Reelo 
 # thanks,
 # Ankush Banerjee
 
